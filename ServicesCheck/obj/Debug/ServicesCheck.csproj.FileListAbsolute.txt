@@ -1,0 +1,10 @@
+C:\Users\Gopi\ASPNETCORE\ServicesCheck\ServicesCheck\bin\Debug\ServicesCheck.exe.config
+C:\Users\Gopi\ASPNETCORE\ServicesCheck\ServicesCheck\bin\Debug\ServicesCheck.exe
+C:\Users\Gopi\ASPNETCORE\ServicesCheck\ServicesCheck\bin\Debug\ServicesCheck.pdb
+C:\Users\Gopi\ASPNETCORE\ServicesCheck\ServicesCheck\obj\Debug\ServicesCheck.csprojAssemblyReference.cache
+C:\Users\Gopi\ASPNETCORE\ServicesCheck\ServicesCheck\obj\Debug\ServicesCheck.Form1.resources
+C:\Users\Gopi\ASPNETCORE\ServicesCheck\ServicesCheck\obj\Debug\ServicesCheck.Properties.Resources.resources
+C:\Users\Gopi\ASPNETCORE\ServicesCheck\ServicesCheck\obj\Debug\ServicesCheck.csproj.GenerateResource.cache
+C:\Users\Gopi\ASPNETCORE\ServicesCheck\ServicesCheck\obj\Debug\ServicesCheck.csproj.CoreCompileInputs.cache
+C:\Users\Gopi\ASPNETCORE\ServicesCheck\ServicesCheck\obj\Debug\ServicesCheck.exe
+C:\Users\Gopi\ASPNETCORE\ServicesCheck\ServicesCheck\obj\Debug\ServicesCheck.pdb
